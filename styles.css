@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .container {
+    border: 1px solid grey;
+    border-radius: 4px;
+    max-width: 500px;
+    position: relative;
+    left: -10px;
+    line-height: 18px;
+    margin: 15px;
+    padding: 5px;
+  }
+  
+  city {
+    border-radius: 4px;
+  }
+  
+  search {
+    color: blueviolet;
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  img {
+    width: 70px;
+    position: relative;
+    top: -10px;
+  }
+  
+  .temperature {
+    font-size: 55px;
+    position: relative;
+    left: -5px;
+  }
+  
+  .spa {
+    position: relative;
+    top: -30px;
+    left: -10px;
+  }
+  
+  p {
+    position: relative;
+    right: -70px;
+  }
+  
